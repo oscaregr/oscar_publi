@@ -1,0 +1,1 @@
+let square = n => (n*n); ///?20 :a;///max 20

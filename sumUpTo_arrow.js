@@ -1,0 +1,2 @@
+const sum = (a,b) => typeof(a) === 'number' && typeof(b) === 'number' ? hor(a,b): console.log("Error, tipo de datos no valido"); 
+const hor = (a,b) => { let x = 0; for(a; a<=b;a++){x = x +a;} return x};

@@ -1,0 +1,5 @@
+print ('mis hobbis son')
+print ('Leer novelas')
+print ('Ver anime')
+print ('Leer mangas')
+Print ('ver peliculas')
